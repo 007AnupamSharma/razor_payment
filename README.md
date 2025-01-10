@@ -16,7 +16,7 @@ This project demonstrates the seamless integration of the **Razorpay** payment g
 
 ## **Tech Stack**
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: React, Chakra ui
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Payment Gateway**: Razorpay
