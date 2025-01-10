@@ -20,7 +20,6 @@ This project demonstrates the seamless integration of the **Razorpay** payment g
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Payment Gateway**: Razorpay
-- **Hosting**: (Specify if hosted on a platform like Vercel, Heroku, or AWS)
 
 ---
 
